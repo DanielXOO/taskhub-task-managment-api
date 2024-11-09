@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taskhub.TaskManagment.Api", "Taskhub.TaskManagment.Api\Taskhub.TaskManagment.Api.csproj", "{5AFF3216-B030-48E8-A24C-1006A9916874}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AFF3216-B030-48E8-A24C-1006A9916874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AFF3216-B030-48E8-A24C-1006A9916874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AFF3216-B030-48E8-A24C-1006A9916874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AFF3216-B030-48E8-A24C-1006A9916874}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
